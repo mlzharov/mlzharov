@@ -9,5 +9,22 @@ person when there is time for his favorite hobby: chess, billiards.
 But the passion for solving puzzles remained. 
 When I found site CodeWars, I was struck by the abundance of unfamiliar languages.
 
+## My hobby:
+
+### Chess. 
+I am in the beginning of my way. It is very interesting to solve tasks on site lichess.org 
+Also I am studying debut theory and playing Fischer chess.
+
+### American pool.
+This is a variation of classic billiards, where a lot of time is devoted to difficult strokes. 
+Looking at the games of the masters, you see that they also make mistakes 
+when calculating the trajectory of a complex blow.
+
+### CodeWars
+The abundance of previously unfamiliar programming languages is impressive.
+I would like to study them all at once. Plus, my position in the overall standings motivates me personally.
+If I may say so. Personally, for myself, I set a goal to get into the first 5 thousand, and subsequently into the first thousand. It is very difficult. In fact, I did not reach the level of 2-3 kyu.
+The complexity of tasks of this level is still unattainable for me.
+
 
           
